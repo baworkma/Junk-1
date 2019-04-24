@@ -1,8 +1,6 @@
-#Bigrams and Sentiment - Updated April 22 2019
+#Bigrams and Sentiment - Updated April 24 2019
 #
-#-------------------------------------------------------------------------#
-#    Tokenize Table
-#-------------------------------------------------------------------------#
+#Congrats on the New York Times!
 
 #Create the Coulter3 table - see Sentiment and Time Analysis 4-9-19
 #Import Twitter data
